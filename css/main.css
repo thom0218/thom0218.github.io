@@ -1,5 +1,5 @@
 body {
-    font-family: arial
+    font-family: arial;
     line-height: 1.6;
     background-color: rgb(255,215,0) ;
     color: white;
@@ -24,7 +24,7 @@ header {
 }
 
 nav {
-    background-color: #444;
+    background-color: gold;
     padding: 10px 0;
 }
 
